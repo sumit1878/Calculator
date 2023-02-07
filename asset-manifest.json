@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumit1878.github.io/Calculator/static/css/main.976dfd90.css",
+    "main.js": "/sumit1878.github.io/Calculator/static/js/main.0e8e81dc.js",
+    "static/js/787.dd804a3d.chunk.js": "/sumit1878.github.io/Calculator/static/js/787.dd804a3d.chunk.js",
+    "index.html": "/sumit1878.github.io/Calculator/index.html",
+    "main.976dfd90.css.map": "/sumit1878.github.io/Calculator/static/css/main.976dfd90.css.map",
+    "main.0e8e81dc.js.map": "/sumit1878.github.io/Calculator/static/js/main.0e8e81dc.js.map",
+    "787.dd804a3d.chunk.js.map": "/sumit1878.github.io/Calculator/static/js/787.dd804a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976dfd90.css",
+    "static/js/main.0e8e81dc.js"
+  ]
+}
